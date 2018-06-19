@@ -1,5 +1,5 @@
 # GIT-PHP
-# Bài tập server buổi 1
+# Bài tập GIT buổi 1
 
 ### Cách thức: 
 - Viết document trên github issue mô tả lại những gì đã được học gồm mô tả lệnh, chụp ảnh màn hình kết quả. 
